@@ -1,17 +1,13 @@
 body {
-  margin: 0;
-  top: 0;
-  bottom: 0;
-  width: 100%;
+   width: 100%;
+  height: 512px;
 }
 #container {
   display: grid;
   grid-template-rows: 50px 1fr 200px;
   grid-template-columns: 120px 1fr;
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 100%;
+   width: 100%;
+  height: 512px;
 }
 #left {
   background-color: green;
