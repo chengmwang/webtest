@@ -6,6 +6,7 @@ body {
   display: grid;
   grid-template-rows: 50px 480px 200px;
   grid-template-columns: 120px 1fr;
+  grid-gap: 0px;
    width: 100%;
 }
 #left {
